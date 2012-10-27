@@ -9,9 +9,9 @@
     <?php
         include 'config.php';
         include 'php/functions.php';
-        if ($env == 'dev') {
+        if ($env == 'prod') {
             include 'php/analytics.php';
-            //include_once 'php/vip.php';
+            include_once 'php/vip.php';
         }
     ?>
 </head>
