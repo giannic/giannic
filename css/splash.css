@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    height: 100%;
+    width 100%;
+    overflow: hidden;
+}
+
+body {
+    height: inherit;
+    width: inherit;
+    overflow: inherit;
+    background-color: #101010;
+    background-image: url('../img/hbg.png');
+}
+
+.index {
+    display: table;
+    height: inherit;
+    width: 100px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #EEEEEE;
+    background-image: url('../img/vbg.png');
+    box-shadow: 0px 0px 0px 5px #000000, 0px 0px 0px 7px #FFFFFF;
+    -webkit-box-shadow: 0px 0px 0px 5px #000000, 0px 0px 0px 7px #FFFFFF;
+    -moz-box-shadow: 0px 0px 0px 5px #000000, 0px 0px 0px 7px #FFFFFF;
+}
+
+.index:hover {
+    box-shadow: 0px 0px 0px 5px #000000, 0px 0px 0px 7px #FFFFFF, 0px 0px 30px #000000;
+}
+
+.index .logo {
+    display: table-cell;
+    font-family: serif;
+    font-size: 100px;
+    line-height: 100px;
+    color: #2f2f2f;
+    text-decoration: none;
+    vertical-align: middle;
+    -webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+    -webkit-animation: pulse 2s ease-out;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation: pulse 2s ease-out;
+    -moz-animation-iteration-count: infinite;
+    -o-animation: pulse 2s ease-out;
+    -o-animation-iteration-count: infinite;
+}
+
+.index:hover .logo {
+    -webkit-animation: none;
+    -moz-animation: none;
+    -o-animation: none;
+    animation: none;
+    color: #000000;
+}
+
+@-webkit-keyframes pulse {
+    0% {
+        color: #2F2F2F;
+    }
+
+    50% {
+        color: #4F4F4F;
+    }
+
+    100% {
+        color: #2F2F2F;
+    }
+}
+
+/* error */
+.error {
+    display: table;
+    height: 100%;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.error .text {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Georgia, Helvetica, sans-serif;
+    font-size: 32px;
+    line-height: 500px;
+    color: #CCCCCC;
+    text-shadow: #000000 2px 2px 0px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

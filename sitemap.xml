@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://www.giannic.com/index.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/home.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/info.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/profiles.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/coursework.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/projects.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/art.php</loc>
+    <image:image>
+      <image:loc>http://www.giannic.com/img/art_sample.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/journal.php</loc>
+  </url>
+  <url>
+    <loc>http://www.giannic.com/msg.php</loc>
+  </url>
+</urlset>

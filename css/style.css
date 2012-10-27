@@ -1,0 +1,289 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+/*.............................................................html-framework*/
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: inherit;
+    width: inherit;
+}
+
+nav {
+    position: absolute;
+    top: 72px;
+    left: -60px;
+    display: block;
+    height: auto;
+    width: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 5px;
+    left: -40px;
+    width: auto;
+}
+
+/*.............................................................page-framework*/
+.container {
+    position: relative;
+    height: auto;
+    width: 650px;
+    min-height: 100%;
+    margin: 0px auto;
+    box-shadow: -5px 0px 0px 0px #000000;
+    -webkit-box-shadow: -5px 0px 0px 0px #000000;
+    -moz-box-shadow: -5px 0px 0px 0px #000000;
+}
+
+.content {
+    height: auto;
+    width: auto;
+    margin: 0px 0px 0px 20px;
+    padding: 0px 0px 20px 0px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+.name-head {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    margin: 20px 0px 0px 20px;
+}
+
+nav a {
+    display: block;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 18px;
+    letter-spacing: -1px;
+    color: #888888;
+    text-align: right;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+    nav a:visited {
+        color: #888888;
+    }
+
+    nav a:hover {
+        color: #000000;
+    }
+
+    nav .active {
+
+    }
+
+/*.......................................................................text*/
+.name {
+    display: block;
+    font-family: serif;
+    color: #555555;
+    font-size: 32px;
+    font-weight: 100;
+    line-height: 32px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    -webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+}
+
+    .name:hover {
+        color: #000000;
+    }
+
+.page-title {
+    font-family: Helvetica, serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.section-title {
+    clear: both;
+    padding: 25px 0px 5px 0px;
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+    .section-title a {
+        color: #000000;
+    }
+
+        .section-title a:visited {
+            color: #000000;
+        }
+
+        .section-title a:hover {
+            color: #333333;
+        }
+
+.entry {
+    clear: both;
+    float: left;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 26px;
+    color: #333333;
+}
+
+    .entry .bit {
+        font-size: 12px;
+        margin: 0px 0px 0px 10px;
+    }
+
+        .entry a {
+            color: #666666;
+        }
+
+        .entry a:visited {
+            color: #666666;
+        }
+
+        .entry a:hover {
+            color: #111111;
+        }
+
+
+.meta-info {
+    float: right;
+    margin: 9px 0px 0px 0px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+.copyright {
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+    line-height: 10px;
+    text-align: center;
+}
+
+.lang {
+    color: #999999;
+}
+
+    .lang:hover {
+        color: #000000;
+    }
+
+.quote {
+    margin: 20px 0px 0px 0px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #999999;
+    font-weight: 100;
+}
+
+/*......................................................................input*/
+textarea {
+    display: block;
+    margin: 0px 0px 10px 0px;
+    padding: 5px;
+    resize: none;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #CCCCCC;
+    border-radius: 1px;
+    font-family: Helvetica, serif;
+    font-size: 18px;
+    font-weight: 100;
+    -webkit-transition: border-color 0.4s ease-in;
+    -moz-transition: border-color 0.4s ease-in;
+    -o-transition: border-color 0.4s ease-in;
+    transition: border-color 0.4s ease-in;
+}
+
+    textarea:hover {
+        border-color: #666666;
+    }
+
+    textarea:focus {
+        border-color: #666666;
+        outline: none;
+    }
+
+    textarea::-webkit-input-placeholder {
+        color: #CCCCCC;
+    }
+
+    textarea:-moz-placeholder {
+        color: #CCCCCC;
+    }
+
+button {
+    height: 30px;
+    width: 100px;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    background-color: #FFFFFF;
+    -webkit-transition: background-color 0.2s ease-in,
+    border-color 0.2s ease-in,
+    color 0.2s ease-in;
+    -moz-transition: background-color 0.2s ease-in,
+    border-color 0.2s ease-in,
+    color 0.2s ease-in;
+    -o-transition: background-color 0.2s ease-in,
+    border-color 0.2s ease-in,
+    color 0.2s ease-in;
+    transition: background-color 0.2s ease-in,
+    border-color 0.2s ease-in,
+    color 0.2s ease-in;
+}
+
+    button:hover {
+        color: #FFFFFF;
+        background-color: #333333;
+        border-color: #FFFFFF;
+    }
+
+.from {
+    height: 24px;
+}
+
+.email {
+    height: 24px;
+}
+
+.msg {
+    height: 100px;
+}
+
+.artwork {
+    clear: both;
+    display: block;
+    max-height: 600px;
+    margin: 20px auto 0px auto;
+    background-color: #000000;
+}
+
+/* badges */
+table .badge {
+    padding: 10px;
+}
