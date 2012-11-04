@@ -353,7 +353,7 @@
                 <p class="entry">Honors Linear Algebra
                     <a class="bit"
                         target="_blank"
-                        href="http://www.math.ubc.ca/~brosnan">
+                        href="http://www2.math.umd.edu/~pbrosnan/">
                         P. Brosnan
                     </a>
                 </p>
