@@ -1,7 +1,7 @@
 <?php
     @date_default_timezone_set("America/New_York");
     $filename = "vip.log";
-    $fh = @fopen("../../protected/$filename",'a') or die();
+    $fh = @fopen("../protected/$filename",'a') or die();
 
     $ip = $_SERVER['REMOTE_ADDR'];
     $host = @gethostbyaddr($ip);
