@@ -27,15 +27,18 @@
                 <form action="comment.php" method="post">
                     <textarea name="from"
                         class="from"
-                        placeholder="Name"></textarea>
+                        placeholder="Name"
+                        required></textarea>
 
                     <textarea name="email"
                         class="email"
-                        placeholder="E-mail"></textarea>
+                        placeholder="E-mail"
+                        required></textarea>
 
                     <textarea name="msg"
                         class="msg"
-                        placeholder="Message"></textarea>
+                        placeholder="Message"
+                        required></textarea>
 
                     <button type="submit">Send</button>
                 </form>
