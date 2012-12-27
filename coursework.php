@@ -23,6 +23,58 @@
         ?>
         <section class="content">
             <article>
+                <!-- spring 2013 -->
+                <h3 class="section-title">spring 2013</h3>
+                <p class="entry">Linux/Unix Skills Instruction
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.giannic.com">
+                        G. Chen
+                    </a>
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.ericob.com">
+                        E. O'Brien
+                    </a>
+                </p>
+                <p class="meta-info">CIS 191</p>
+
+                <p class="entry">Networked Systems
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.seas.upenn.edu/~boonloo">
+                        B. T. Loo
+                    </a>
+                </p>
+                <p class="meta-info">CIS 553</p>
+
+                <p class="entry">Typography
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.sharkahyland.com">
+                        S. Hyland
+                    </a>
+                </p>
+                <p class="meta-info">FNAR 239</p>
+
+                <p class="entry">Web Design II
+                    <a class="bit"
+                        target="_blank"
+                        href="#">
+                        TBA
+                    </a>
+                </p>
+                <p class="meta-info">FNAR 535</p>
+
+                <p class="entry">Oceanography
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.sas.upenn.edu/earth/benhorton.htm">
+                        B. Horton
+                    </a>
+                </p>
+                <p class="meta-info">GEOL 130</p>
+
                 <!-- fall 2012 -->
                 <h3 class="section-title">fall 2012</h3>
                 <p class="entry">Computer Animation
