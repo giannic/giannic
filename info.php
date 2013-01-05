@@ -31,10 +31,19 @@
                 <p class="meta-info">2013</p>
 
                 <h3 class="section-title">experience</h3>
-                <p class="entry">Head Grader, Manager
-                    <a class="bit">UPenn Computer Science 1XX Courses</a>
+                <p class="entry">Lecturer
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.cis.upenn.edu">
+                        UPenn Computer Science Department
+                    </a>,
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.seas.upenn.edu/~cis191">
+                        CIS 191
+                    </a>
                 </p>
-                <p class="meta-info">01.2011 - Present</p>
+                <p class="meta-info">01.2013 - Present</p>
 
                 <p class="entry">Teaching Assistant
                     <a class="bit"
@@ -44,6 +53,11 @@
                     </a>
                 </p>
                 <p class="meta-info">01.2010 - Present</p>
+
+                <p class="entry">Head Grader, Manager
+                    <a class="bit">UPenn Computer Science 1XX Courses</a>
+                </p>
+                <p class="meta-info">01.2011 - 01.2013</p>
 
                 <p class="entry">Technology Summer Analyst
                     <a class="bit"
