@@ -36,7 +36,7 @@
                         target="_blank"
                         href="http://www.cis.upenn.edu">
                         UPenn Computer Science Department
-                    </a>,
+                    </a>
                     <a class="bit"
                         target="_blank"
                         href="http://www.seas.upenn.edu/~cis191">
