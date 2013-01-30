@@ -58,7 +58,7 @@ function nav() {
 
 function footer() {
     $page = $_SERVER["SCRIPT_NAME"];
-    echo "<h6 class=\"copyright\">2012</h6>";
+    echo "<h6 class=\"copyright\">2013</h6>";
 }
 
 ?>
