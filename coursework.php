@@ -39,14 +39,23 @@
                 </p>
                 <p class="meta-info">CIS 191</p>
 
-                <p class="entry">Networked Systems
+                <p class="entry">Senior Capstone Project
                     <a class="bit"
                         target="_blank"
-                        href="http://www.seas.upenn.edu/~boonloo">
-                        B. T. Loo
+                        href="http://www.seas.upenn.edu/~badler">
+                        N. Badler
                     </a>
                 </p>
-                <p class="meta-info">CIS 553</p>
+                <p class="meta-info">CIS 497</p>
+
+                <p class="entry">Web Technologies
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.davidcomberg.com">
+                        D. Comberg
+                    </a>
+                </p>
+                <p class="meta-info">FNAR 399</p>
 
                 <p class="entry">Typography
                     <a class="bit"
@@ -57,14 +66,14 @@
                 </p>
                 <p class="meta-info">FNAR 239</p>
 
-                <p class="entry">Web Design II
+                <p class="entry">Product Design and Development
                     <a class="bit"
                         target="_blank"
-                        href="#">
-                        TBA
+                        href="http://www.robertsoninnovation.com/">
+                        D. Robertson
                     </a>
                 </p>
-                <p class="meta-info">FNAR 535</p>
+                <p class="meta-info">IPD 515</p>
 
                 <p class="entry">Oceanography
                     <a class="bit"
