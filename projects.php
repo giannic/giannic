@@ -29,11 +29,11 @@
                 </h5>
 
                 <h3 class="section-title">
-                    windows phone marketing
+                    windows phone marketing (consumer behavior)
                 </h3>
                 <p class="entry">
                     Developed a marketing strategy for Windows Phone. Creative assets are a web-based game and posters. Advised by the Microsoft team.<br/>
-                    Team Members: Gianni Chen, Osman Azami, Justine Shiou, Gina Ah-fenne, Daniel Nunez, David Sawyers
+                    Team Members: Gianni Chen, Osman Azami, Justine Shiou, Gina Ah-fenne, Daniel Nunez, <br/> David Sawyers
                 </p>
 
                 <h3 class="section-title">
