@@ -29,12 +29,20 @@
                 </h5>
 
                 <h3 class="section-title">
+                    windows phone marketing
+                </h3>
+                <p class="entry">
+                    Developed a marketing strategy for Windows Phone. Creative assets are a web-based game and posters. Advised by the Microsoft team.<br/>
+                    Team Members: Gianni Chen, Osman Azami, Justine Shiou, Gina Ah-fenne, Daniel Nunez, David Sawyers
+                </p>
+
+                <h3 class="section-title">
                     <a href="https://github.com/giannic/melt" target="_blank">
                         ice melting (physically based animation)
                     </a>
                 </h3>
                 <p class="entry">
-                    Implemented a ice melting simulation using Smoothed-Particle Hydrodyanamics. We will be updating on our progress soon. Stay tuned! <!--Check out our progress <a href="http://meltsim.tumblr.com">blog</a>--><br/>
+                    Implemented a ice melting simulation using Smoothed-Particle Hydrodyanamics.<!--Check out our progress <a href="http://meltsim.tumblr.com">blog</a>--><br/>
                     Team Members: Gianni Chen, <a href="http://ksuvee.wordpress.com" target="_blank">Kanchalai Suveepattananont</a>
                 </p>
 

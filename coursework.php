@@ -64,16 +64,7 @@
                         S. Hyland
                     </a>
                 </p>
-                <p class="meta-info">FNAR 239</p>
-
-                <p class="entry">Product Design and Development
-                    <a class="bit"
-                        target="_blank"
-                        href="http://www.robertsoninnovation.com/">
-                        D. Robertson
-                    </a>
-                </p>
-                <p class="meta-info">IPD 515</p>
+                <p class="meta-info">FNAR 569</p>
 
                 <p class="entry">Oceanography
                     <a class="bit"

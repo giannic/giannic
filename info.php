@@ -109,7 +109,7 @@
                 <p class="entry">HTML, CSS, JavaScript (jQuery), PHP, SQL</p>
 
                 <h3 class="section-title">design</h3>
-                <p class="entry">Photoshop, Illustrator</p>
+                <p class="entry">Photoshop, Illustrator, InDesign</p>
                 <p class="entry">Maya, 3ds Max</p>
 
                 <h3 class="section-title">activities</h3>
