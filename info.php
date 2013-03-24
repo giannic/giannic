@@ -113,14 +113,15 @@
                 <p class="entry">Maya, 3ds Max</p>
 
                 <h3 class="section-title">activities</h3>
-                <p class="entry">Communications Chair
+                <p class="entry">Communications Chair, Member
                     <a class="bit"
                         target="_blank"
                         href="http://www.stwing.upenn.edu">
                         UPenn Science and Technology Wing
                     </a>
                 </p>
-                <p class="meta-info">01.2010 - 01.2011</p>
+                <p class="meta-info">01.2010 - Present</p>
+
                 <p class="entry">Orientation Peer Advisor
                     <a class="bit"
                         target="_blank"

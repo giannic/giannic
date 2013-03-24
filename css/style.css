@@ -17,8 +17,8 @@ body {
 
 nav {
     position: absolute;
-    top: 72px;
-    left: -60px;
+    top: 102px;
+    left: -70px;
     display: block;
     height: auto;
     width: auto;
@@ -64,8 +64,8 @@ nav a {
     font-family: sans-serif;
     font-size: 16px;
     font-weight: 100;
-    line-height: 18px;
-    letter-spacing: -1px;
+    line-height: 21px;
+    letter-spacing: 0.25px;
     color: #888888;
     text-align: right;
     text-transform: lowercase;
@@ -80,10 +80,6 @@ nav a {
         color: #000000;
     }
 
-    nav .active {
-
-    }
-
 /*.......................................................................text*/
 .name {
     display: block;
@@ -91,7 +87,7 @@ nav a {
     color: #555555;
     font-size: 32px;
     font-weight: 100;
-    line-height: 32px;
+    line-height: 31.5px;
     letter-spacing: 1px;
     text-decoration: none;
     -webkit-transition: color 0.2s ease-in;
@@ -104,20 +100,12 @@ nav a {
         color: #000000;
     }
 
-.page-title {
-    font-family: Helvetica, serif;
-    font-size: 18px;
-    line-height: 18px;
-    font-weight: 100;
-    letter-spacing: 1px;
-}
-
 .section-title {
     clear: both;
-    padding: 25px 0px 5px 0px;
-    font-family: Helvetica, sans-serif;
+    padding: 24.5px 0px 5px 0px;
+    font-family: sans-serif;
     font-size: 12px;
-    line-height: 18px;
+    line-height: 17.5px;
     font-weight: 100;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -140,7 +128,7 @@ nav a {
     float: left;
     font-family: Georgia, serif;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 28px;
     color: #333333;
 }
 
@@ -167,7 +155,7 @@ nav a {
     margin: 9px 0px 0px 0px;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 11px;
-    line-height: 11px;
+    line-height: 14px;
     font-weight: 100;
     letter-spacing: 2px;
 }
@@ -176,7 +164,7 @@ nav a {
     font-family: sans-serif;
     font-size: 10px;
     font-weight: 100;
-    line-height: 10px;
+    line-height: 10.5px;
     text-align: center;
 }
 
@@ -191,8 +179,8 @@ nav a {
 .quote {
     margin: 20px 0px 0px 0px;
     font-family: Helvetica, sans-serif;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 15px;
+    line-height: 24.5px;
     color: #999999;
     font-weight: 100;
 }
@@ -200,15 +188,16 @@ nav a {
 /*......................................................................input*/
 textarea {
     display: block;
+    width: 300px;
     margin: 0px 0px 10px 0px;
-    padding: 5px;
+    padding: 7px 7px 0px 7px;
     resize: none;
     border-style: solid;
     border-width: 3px;
     border-color: #CCCCCC;
     border-radius: 1px;
     font-family: Helvetica, serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 100;
     -webkit-transition: border-color 0.4s ease-in;
     -moz-transition: border-color 0.4s ease-in;
