@@ -8,7 +8,6 @@
     <meta charset="utf-8">
     <meta name="google-site-verification"
         content="C6_wOCVRZCOck1tRKN7tWxzKq0t2rBLxWFDEUMgrS5c"/>
-
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <?php
         include 'config.php';
