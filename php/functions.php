@@ -3,7 +3,7 @@
 function getheader() {
     $page = $_SERVER["SCRIPT_NAME"];
     echo "<header class=\"name-head\">";
-    echo "<a class=\"name\" href=\"home.php\">Gianni Chen</a>";
+    echo "<a class=\"name\" href=\"index.php\">Gianni Chen</a>";
     echo "</header>";
 }
 
