@@ -120,7 +120,7 @@
 
                 <h3 class="section-title">code</h3>
                 <p class="entry">C, Java, C++ (OpenGL), MATLAB, Python</p>
-                <p class="entry">HTML, CSS, JavaScript (jQuery), PHP, SQL</p>
+                <p class="entry">Javascript, HTML, CSS, PHP</p>
 
                 <h3 class="section-title">design</h3>
                 <p class="entry">Photoshop, Illustrator, InDesign</p>
