@@ -43,7 +43,7 @@
                         Obvious
                     </a>
                 </p>
-                <p class="meta-info">06.2013 - Present</p>
+                <p class="meta-info">06.2013 - 08.2013</p>
 
                 <p class="entry">Lecturer
                     <a class="bit"
