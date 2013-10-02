@@ -23,6 +23,58 @@
         ?>
         <section class="content">
             <article>
+                <!-- fall 2013 -->
+                <h3 class="section-title">fall 2013</h3>
+                <p class="entry">Linux/Unix Skills Instruction
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.giannic.com">
+                        G. Chen
+                    </a>
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.stwing.upenn.edu/~kainino/">
+                        K. Ninomiya
+                    </a>
+                </p>
+                <p class="meta-info">CIS 191</p>
+
+                <p class="entry">Computational Linguistics
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.seas.upenn.edu/~nenkova">
+                        A. Nenkova
+                    </a>
+                </p>
+                <p class="meta-info">CIS 530</p>
+
+                <p class="entry">Game Design Practicum
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.seas.upenn.edu/~shlane/">
+                        S. H. Lane
+                    </a>
+                </p>
+                <p class="meta-info">CIS 568</p>
+
+                <p class="entry">Figure Drawing I
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.douglasmartenson.com/">
+                        D. Martenson
+                    </a>
+                </p>
+                <p class="meta-info">FNAR 580</p>
+
+                <p class="entry">Film Forms and Contexts
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.asc.upenn.edu/faculty/Faculty-Bio.aspx?id=141">
+                        P. Messaris
+                    </a>
+                </p>
+                <p class="meta-info">COMM 240</p>
+
                 <!-- spring 2013 -->
                 <h3 class="section-title">spring 2013</h3>
                 <p class="entry">Linux/Unix Skills Instruction
