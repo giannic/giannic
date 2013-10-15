@@ -5,10 +5,14 @@
     <title>gianni's profiles</title>
     <meta charset="utf-8">
     <meta name="Description" content="Learn a little about Gianni's life">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
+
     <?php
         include 'config.php';
         include 'php/functions.php';
+
+        stylesheets();
+        less();
+
         if ($env == 'prod') {
             include 'php/analytics.php';
         }

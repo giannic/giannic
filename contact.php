@@ -5,10 +5,13 @@
     <title>contact gianni</title>
     <meta charset="utf-8">
     <meta name="description" content="Contact Gianni via this form.">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
     <?php
         include 'config.php';
         include 'php/functions.php';
+
+        stylesheets();
+        less();
+
         if ($env == 'prod') {
             include 'php/analytics.php';
         }

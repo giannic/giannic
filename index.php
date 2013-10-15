@@ -9,10 +9,13 @@
     <meta name="google-site-verification"
         content="C6_wOCVRZCOck1tRKN7tWxzKq0t2rBLxWFDEUMgrS5c"/>
     <meta name="p:domain_verify" content="bfc9fbb599b3e78fa77875f50ae02ad1"/>
-    <link rel="stylesheet" href="css/style.css" type="text/css">
     <?php
         include 'config.php';
         include 'php/functions.php';
+
+        stylesheets();
+        less();
+
         if ($env == 'prod') {
             include 'php/analytics.php';
             include_once 'php/vip.php';

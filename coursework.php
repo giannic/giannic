@@ -5,10 +5,13 @@
     <meta charset="utf-8">
     <meta name="description" content="A record the Gianni's coursework at UPenn, UBC and Stanford.">
     <title>gianni's coursework</title>
-    <link rel="stylesheet" href="css/style.css" type="text/css">
     <?php
         include 'config.php';
         include 'php/functions.php';
+
+        stylesheets();
+        less();
+
         if ($env == 'prod') {
             include 'php/analytics.php';
         }

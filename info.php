@@ -5,10 +5,14 @@
     <meta charset="utf-8">
     <meta name="description" content="Gianni's is a junior studying Digital Media Design at the University of Pennsylvania.">
     <title>gianni's info</title>
-    <link rel="stylesheet" href="css/style.css" type="text/css">
+
     <?php
         include 'config.php';
         include 'php/functions.php';
+
+        stylesheets();
+        less();
+
         if ($env == 'prod') {
             include 'php/analytics.php';
         }

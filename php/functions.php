@@ -1,5 +1,13 @@
 <?php
 
+function stylesheets() {
+    echo "<link rel=\"stylesheet/less\" type=\"text/css\" href=\"less/styles.less\">";
+}
+
+function less() {
+    echo "<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/less.js/1.4.1/less.min.js\"></script>";
+}
+
 function getheader() {
     $page = $_SERVER["SCRIPT_NAME"];
     echo "<header class=\"name-head\">";
