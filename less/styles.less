@@ -1,3 +1,19 @@
+// Typefaces
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:400,400italic|Open+Sans:400,300);
+
+// Variables
+@type-serif: "Vollkorn", Georgia, serif;
+@type-sans-serif: "Open Sans", Helvetica, sans-serif;
+
+@type-size-h1: 32px;
+@type-size-h2: 12px;
+@type-size-h3: 16px;
+@type-size-h4: 12px;
+@type-size-h5: 11px;
+@type-size-h6: 10px;
+@type-size-p: 16px;
+
+// Global
 * {
     margin: 0px;
     padding: 0px;
@@ -61,31 +77,32 @@ footer {
 
 nav a {
     display: block;
-    font-family: sans-serif;
+    font-family: @type-sans-serif;
     font-size: 16px;
-    font-weight: 100;
+    font-weight: 300;
     line-height: 21px;
     letter-spacing: 0.25px;
     color: #888888;
     text-align: right;
     text-transform: lowercase;
     text-decoration: none;
-}
 
-    nav a:visited {
+    &:visited {
         color: #888888;
     }
-
-    nav a:hover {
+    &:hover {
         color: #000000;
     }
+}
+
+
 
 /*.......................................................................text*/
 .name {
     display: block;
-    font-family: serif;
+    font-family: @type-serif;
     color: #555555;
-    font-size: 32px;
+    font-size: @type-size-h1;
     font-weight: 100;
     line-height: 31.5px;
     letter-spacing: 1px;
@@ -94,75 +111,70 @@ nav a {
     -moz-transition: color 0.2s ease-in;
     -o-transition: color 0.2s ease-in;
     transition: color 0.2s ease-in;
-}
-
-    .name:hover {
+    &:hover {
         color: #000000;
     }
+}
 
 .section-title {
     clear: both;
     padding: 24.5px 0px 5px 0px;
-    font-family: sans-serif;
-    font-size: 12px;
+    font-family: @type-sans-serif;
+    font-size: @type-size-h2;
     line-height: 17.5px;
-    font-weight: 100;
+    font-weight: 300;
     letter-spacing: 1px;
     text-transform: uppercase;
-}
 
-    .section-title a {
+    a {
         color: #000000;
-    }
-
-        .section-title a:visited {
+        &:visited {
             color: #000000;
         }
-
-        .section-title a:hover {
+        &:hover {
             color: #333333;
         }
+    }
+}
 
 .entry {
     clear: both;
     float: left;
-    font-family: Georgia, serif;
-    font-size: 14px;
+    font-family: @type-serif;
+    font-size: @type-size-p;
     line-height: 28px;
+    letter-spacing: 0.3px;
     color: #333333;
-}
 
-    .entry .bit {
-        font-size: 12px;
+    .bit {
+        font-size: @type-size-h4;
         margin: 0px 0px 0px 10px;
     }
 
-        .entry a {
+    a {
+        color: #666666;
+        &:visited {
             color: #666666;
         }
-
-        .entry a:visited {
-            color: #666666;
-        }
-
-        .entry a:hover {
+        &:hover {
             color: #111111;
         }
-
+    }
+}
 
 .meta-info {
     float: right;
-    margin: 9px 0px 0px 0px;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 11px;
+    margin: 6px 0px 0px 0px;
+    font-family: @type-sans-serif;
+    font-size: @type-size-h5;
     line-height: 14px;
-    font-weight: 100;
+    font-weight: 300;
     letter-spacing: 2px;
 }
 
 .copyright {
-    font-family: sans-serif;
-    font-size: 10px;
+    font-family: @type-sans-serif;
+    font-size: @type-size-h6;
     font-weight: 100;
     line-height: 10.5px;
     text-align: center;
@@ -170,16 +182,15 @@ nav a {
 
 .lang {
     color: #999999;
-}
-
-    .lang:hover {
+    &:hover {
         color: #000000;
     }
+}
 
 .quote {
     margin: 20px 0px 0px 0px;
-    font-family: Helvetica, sans-serif;
-    font-size: 15px;
+    font-family: @type-sans-serif;
+    font-size: @type-size-h3;
     line-height: 24.5px;
     color: #999999;
     font-weight: 100;
@@ -190,29 +201,26 @@ textarea {
     display: block;
     width: 300px;
     margin: 0px 0px 10px 0px;
-    padding: 7px 7px 0px 7px;
+    padding: 3px 7px 0px 7px;
     resize: none;
     border-style: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-color: #CCCCCC;
-    border-radius: 1px;
-    font-family: Helvetica, serif;
+    font-family: @type-serif;
     font-size: 16px;
     font-weight: 100;
     -webkit-transition: border-color 0.4s ease-in;
     -moz-transition: border-color 0.4s ease-in;
     -o-transition: border-color 0.4s ease-in;
     transition: border-color 0.4s ease-in;
-}
-
-    textarea:hover {
+    &:hover {
         border-color: #666666;
     }
-
-    textarea:focus {
+    &:focus {
         border-color: #666666;
         outline: none;
     }
+}
 
     textarea::-webkit-input-placeholder {
         color: #CCCCCC;
@@ -225,13 +233,13 @@ textarea {
 button {
     height: 30px;
     width: 100px;
-    font-family: Helvetica, sans-serif;
+    font-family: @type-sans-serif;
     font-size: 14px;
     font-weight: 200;
     border-style: solid;
-    border-color: #000000;
+    border-color: #333;
     border-width: 2px;
-    background-color: #FFFFFF;
+    background-color: #FFF;
     -webkit-transition: background-color 0.2s ease-in,
     border-color 0.2s ease-in,
     color 0.2s ease-in;
@@ -244,13 +252,12 @@ button {
     transition: background-color 0.2s ease-in,
     border-color 0.2s ease-in,
     color 0.2s ease-in;
-}
-
-    button:hover {
-        color: #FFFFFF;
-        background-color: #333333;
-        border-color: #FFFFFF;
+    &:hover {
+        color: #FFF;
+        background-color: #333;
+        border-color: #FFF;
     }
+}
 
 .from {
     height: 24px;
@@ -261,7 +268,7 @@ button {
 }
 
 .msg {
-    height: 100px;
+    height: 150px;
 }
 
 .artwork {

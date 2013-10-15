@@ -53,7 +53,7 @@
                     <a class="bit"
                         target="_blank"
                         href="http://www.cis.upenn.edu">
-                        UPenn Computer Science Department
+                        UPenn Computer Science
                     </a>
                     <a class="bit"
                         target="_blank"
@@ -67,7 +67,7 @@
                     <a class="bit"
                         target="_blank"
                         href="http://www.cis.upenn.edu">
-                        UPenn Computer Science Department
+                        UPenn Computer Science
                     </a>
                 </p>
                 <p class="meta-info">01.2010 - Present</p>
@@ -86,7 +86,7 @@
                 </p>
                 <p class="meta-info">06.2012 - 08.2012</p>
 
-                <p class="entry">Software Engineering and Design Intern
+                <p class="entry">Engineering and Design Intern
                     <a class="bit"
                         target="_blank"
                         href="http://www.wapolabs.com">
@@ -123,7 +123,7 @@
                 <p class="meta-info">09.2009 - 12.2009</p>
 
                 <h3 class="section-title">code</h3>
-                <p class="entry">C, Java, C++ (OpenGL), MATLAB, Python</p>
+                <p class="entry">C, Java, C++ (OpenGL), Python, MATLAB</p>
                 <p class="entry">Javascript, HTML, CSS, PHP</p>
 
                 <h3 class="section-title">design</h3>

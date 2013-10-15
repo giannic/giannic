@@ -92,6 +92,16 @@
                             </a>
                         </td>
                     </tr>
+                    <tr>
+                        <td class="badge">
+                            <a target="_blank"
+                                href="http://instagr.am/giannichen">
+                                <img src="http://badges.instagram.com/static/images/ig-badge-48.png"
+                                    width="64" height="64" border="0"
+                                    alt="Instagram"/>
+                            </a>
+                        </td>
+                    </tr>
                 </table>
             </article>
         </section>

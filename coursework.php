@@ -287,7 +287,7 @@
                 <p class="meta-info">PHYS 140</p>
 
                 <p class="entry">Social Digital Media
-                    <a class="bit" target="_blank">K. Hampton</a>
+                    <a class="bit">K. Hampton</a>
                 </p>
                 <p class="meta-info">COMM 409</p>
 
