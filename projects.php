@@ -37,8 +37,26 @@
                 </h3>
                 <p class="entry">
                     Developed a marketing strategy for Windows Phone. Creative assets are a web-based game and posters. Advised by the Microsoft team.<br/>
-                    Team Members: Gianni Chen, Osman Azami, Justine Shiou, Gina Ah-fenne, Daniel Nunez, <br/> David Sawyers
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit">
+                        Osman Azami
+                    </a>
+                    <a class="bit">
+                        Justine Shiou
+                    </a>
+                    <a class="bit">
+                        Gina Ah-fenne
+                    </a>
+                    <a class="bit">
+                        Daniel Nunez
+                    </a>
+                    <a class="bit">
+                        David Sawyers
+                    </a>
                 </p>
+
 
                 <h3 class="section-title">
                     <a href="https://github.com/giannic/melt" target="_blank">
@@ -47,7 +65,14 @@
                 </h3>
                 <p class="entry">
                     Implemented a ice melting simulation using Smoothed-Particle Hydrodyanamics.<!--Check out our progress <a href="http://meltsim.tumblr.com">blog</a>--><br/>
-                    Team Members: Gianni Chen, <a href="http://ksuvee.wordpress.com" target="_blank">Kanchalai Suveepattananont</a>
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://ksuvee.wordpress.com"
+                        target="_blank">
+                        Kanchalai Suveepattananont
+                    </a>
                 </p>
 
                 <h3 class="section-title">rigid body simulator (physically based animation)</h3>
@@ -68,7 +93,24 @@
                 <h3 class="section-title">pennos (operating systems)</h3>
                 <p class="entry">
                     Single process operating system implemented in C. Worked mainly on the kernel and shell.<br/>
-                    Team Members: Gianni Chen, <a href="http://www.albertkwon.com" target="_blank">Albert Kwon</a>, Nathan Marshak, <a href="http://www.ericob.com" target="_blank">Eric O'Brien</a>
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://www.albertkwon.com"
+                        target="_blank">
+                        Albert Kwon
+                    </a>
+                    <a class="bit"
+                        href="http://www.seas.upenn.edu/~nmarshak"
+                        target="_blank">
+                        Nathan Marshak
+                    </a>
+                    <a class="bit"
+                        href="http://www.ericob.com"
+                        target="_blank">
+                        Eric O'Brien
+                    </a>
                 </p>
 
                 <h3 class="section-title">raytracer (computer graphics)</h3>
@@ -98,25 +140,81 @@
                 <h3 class="section-title">mini maya (computer graphics)</h3>
                 <p class="entry">
                     Implementation of a few 3D space features using Qt Creator with C++ and OpenGL. Implemented camera functionality.<br/>
-                    Team Members: Gianni Chen, Kevin Xu, <a href="http://ksuvee.wordpress.com" target="_blank">Kanchalai Suveepattananont</a>
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://www.linkedin.com/in/kevinxu"
+                        target="_blank">
+                        Kevin Xu
+                    </a>
+                    <a class="bit"
+                        href="http://ksuvee.wordpress.com"
+                        target="_blank">
+                        Kanchalai Suveepattananont
+                    </a>
                 </p>
 
                 <h3 class="section-title">mini twitter (databases)</h3>
                 <p class="entry">
                     An implementation of Twitter as a database management systems final project. Concentrated on querying the database via OJDBC and styling JSP with CSS.<br/>
-                    Team Members: Gianni Chen, Kevin Xu, <a href="http://www.ericob.com" target="_blank">Eric O'Brien</a>
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://www.linkedin.com/in/kevinxu"
+                        target="_blank">
+                        Kevin Xu
+                    </a>
+                    <a class="bit"
+                        href="http://www.ericob.com"
+                        target="_blank">
+                        Eric O'Brien
+                    </a>
                 </p>
 
                 <h3 class="section-title">hypup (hackathon)</h3>
                 <p class="entry">
                     An event-based social networking Android app for a 48 hour hackathon. Designed and created all artwork for the user interface. Wrote most XML for page layouts. Implemented parts of android events. <br/>
-                    Team Members: Gianni Chen, <a href="http://www.sshannin.com">Seth Shannin</a>, <a href="http://www.albertkwon.com" target="_blank">Albert Kwon</a>, Philip Peng
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://www.sshannin.com"
+                        target="_blank">
+                        Seth Shannin
+                    </a>
+                    <a class="bit"
+                        href="http://www.albertkwon.com"
+                        target="_blank">
+                        Albert Kwon
+                    </a>
+                    <a class="bit"
+                        href="http://www.linkedin.com/pub/philip-peng/33/a75/456"
+                        target="_blank">
+                        Philip Peng
+                    </a>
                 </p>
 
                 <h3 class="section-title">edabble (social digital media)</h3>
                 <p class="entry">
                     An interactive physical forum that allows users to discuss a given topic in a location on Penn campus. The goal of this project is to boost civil, civic, and political deliberation. Wrote the HTML and CSS for the layout of the projected forum. Used PHP to integrate a word cloud (API) into the project. <br/>
-                    Team Members: Gianni Chen, <a href="http://www.danknowlton.com" target="_blank">Daniel Knowlton</a>, <a href="http://www.kaitlynreese.com/" target="_blank">Kaitlyn Reese</a>, Ivan Zdanov
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://www.danknowlton.com"
+                        target="_blank">
+                        Daniel Knowlton
+                    </a>
+                    <a class="bit"
+                        href="http://www.kaitlynreese.com"
+                        target="_blank">
+                        Kaitlyn Reese
+                    </a>
+                    <a class="bit">
+                        Ivan Zdanov
+                    </a>
                 </p>
             </article>
         </section>
