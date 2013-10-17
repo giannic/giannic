@@ -2,17 +2,18 @@
 <html lang="en">
 
 <head>
-    <meta name="Description"
-        content="Hi! I'm Gianni. I am currently an undergrad in Digital Media Design at the University of Pennsylvania.">
     <title>about gianni</title>
     <meta charset="utf-8">
+    <meta name="description"
+        content="Gianni, undergraduate in Digital Media Design at the University of Pennsylvania.">
     <meta name="google-site-verification"
         content="C6_wOCVRZCOck1tRKN7tWxzKq0t2rBLxWFDEUMgrS5c"/>
     <meta name="p:domain_verify" content="bfc9fbb599b3e78fa77875f50ae02ad1"/>
     <?php
         include 'config.php';
         include 'php/functions.php';
-
+        
+        meta();
         stylesheets();
         less();
 

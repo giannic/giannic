@@ -3,12 +3,13 @@
 <head>
     <title>gianni's art</title>
     <meta charset="utf-8">
-    <meta name="description" content="A bit about Gianni's artwork.">
+    <meta name="description" content="About Gianni's artwork.">
 
     <?php
         include 'config.php';
         include 'php/functions.php';
 
+        meta();
         stylesheets();
         less();
 

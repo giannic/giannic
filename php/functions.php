@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('America/New_York');
 
 function stylesheets() {
     echo "<link rel=\"stylesheet/less\" type=\"text/css\" href=\"less/styles.less\">";
@@ -66,7 +67,12 @@ function nav() {
 
 function footer() {
     $page = $_SERVER["SCRIPT_NAME"];
-    echo "<h6 class=\"copyright\">2013</h6>";
+    echo "<h6 class=\"copyright\">" . date("Y") . "</h6>";
+}
+
+function meta() {
+    echo "<meta name=\"author\" content=\"Gianni Chen\">";
+    echo "<meta name=\"keywords\" content=\"Gianni Chen, Gianni, DMD, Digital Media Design, UPenn, University of Pennsylvania, Engineering\"/>";
 }
 
 ?>

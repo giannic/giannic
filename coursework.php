@@ -2,13 +2,14 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="A record the Gianni's coursework at UPenn, UBC and Stanford.">
     <title>gianni's coursework</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Gianni's coursework at UPenn, UBC and Stanford.">
     <?php
         include 'config.php';
         include 'php/functions.php';
 
+        meta();
         stylesheets();
         less();
 

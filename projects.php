@@ -9,6 +9,7 @@
         include 'config.php';
         include 'php/functions.php';
 
+        meta();
         stylesheets();
         less();
 
