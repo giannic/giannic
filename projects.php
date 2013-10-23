@@ -34,6 +34,38 @@
                 </h5>
 
                 <h3 class="section-title">
+                    datapp (web development)
+                </h3>
+                <p class="entry">
+                    Web presence management.<br/>
+                    <a class="bit">
+                        Gianni Chen
+                    </a>
+                    <a class="bit"
+                        href="http://davidxu.me/"
+                        target="_blank">
+                        David Xu
+                    </a>
+                    <a class="bit"
+                        href="http://kevinshen.net/"
+                        target="_blank">
+                        Kevin Shen
+                    </a>
+                    <a class="bit"
+                        href="http://www.fannieliu.com/"
+                        target="_blank">
+                        Fannie Liu
+                    </a>
+                    <a class="bit"
+                        href="http://www.gabymorenocesar.com/"
+                        target="_blank">
+                        Gabriela Moreno Cesar
+                    </a>
+                    <a class="bit">
+                        Samantha Merritt
+                    </a>
+                </p>
+                <h3 class="section-title">
                     windows phone marketing (consumer behavior)
                 </h3>
                 <p class="entry">
