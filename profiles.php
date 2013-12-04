@@ -102,6 +102,14 @@
                                     alt="Instagram"/>
                             </a>
                         </td>
+                        <td class="badge">
+                            <a target="_blank"
+                                href="http://gkc.vsco.co">
+                                <img src="http://vsco.co/images/vscocam/cam_logo.svg"
+                                    width="64" height="64" border="0"
+                                    alt="VSCO"/>
+                            </a>
+                        </td>
                     </tr>
                 </table>
             </article>
