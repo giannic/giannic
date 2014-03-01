@@ -36,6 +36,29 @@
                 <p class="meta-info">2013</p>
 
                 <h3 class="section-title">experience</h3>
+                <p class="entry">Lecturer
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.cis.upenn.edu">
+                        UPenn Computer Science
+                    </a>
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.seas.upenn.edu/~cis191">
+                        CIS 191
+                    </a>
+                </p>
+                <p class="meta-info">01.2013 - 12.2013</p>
+
+                <p class="entry">Teaching Assistant
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.cis.upenn.edu">
+                        UPenn Computer Science
+                    </a>
+                </p>
+                <p class="meta-info">01.2010 - 12.2013</p>
+
                 <p class="entry">Engineering Intern
                     <a class="bit"
                         target="_blank"
@@ -49,29 +72,6 @@
                     </a>
                 </p>
                 <p class="meta-info">06.2013 - 08.2013</p>
-
-                <p class="entry">Lecturer
-                    <a class="bit"
-                        target="_blank"
-                        href="http://www.cis.upenn.edu">
-                        UPenn Computer Science
-                    </a>
-                    <a class="bit"
-                        target="_blank"
-                        href="http://www.seas.upenn.edu/~cis191">
-                        CIS 191
-                    </a>
-                </p>
-                <p class="meta-info">01.2013 - Present</p>
-
-                <p class="entry">Teaching Assistant
-                    <a class="bit"
-                        target="_blank"
-                        href="http://www.cis.upenn.edu">
-                        UPenn Computer Science
-                    </a>
-                </p>
-                <p class="meta-info">01.2010 - Present</p>
 
                 <p class="entry">Head Grader, Manager
                     <a class="bit">UPenn Computer Science 1XX Courses</a>
