@@ -61,7 +61,7 @@
 
                         <td class="badge">
                             <a target="_blank"
-                                href="http://twitter.com/giannichen">
+                                href="http://twitter.com/giawni">
                                 <img src="https://abs.twimg.com/a/1372759208/images/resources/twitter-bird-white-on-blue.png"
                                 width="64" height="64"
                                 alt="Twitter"/>
@@ -96,7 +96,7 @@
                     <tr>
                         <td class="badge">
                             <a target="_blank"
-                                href="http://instagr.am/giannichen">
+                                href="http://instagr.am/giawni">
                                 <img src="http://badges.instagram.com/static/images/ig-badge-48.png"
                                     width="64" height="64" border="0"
                                     alt="Instagram"/>
