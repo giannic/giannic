@@ -34,7 +34,7 @@
                     <tr>
                         <td class="badge">
                             <a target="_blank"
-                                href="http://medium.com/@giawni">
+                                href="http://medium.com/@g">
                                 <img src="https://s3.amazonaws.com/obvious/logos/M_128_black.png"
                                 width="64" height="64"
                                 alt="Medium"/>

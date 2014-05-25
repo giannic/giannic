@@ -36,6 +36,15 @@
                 <p class="meta-info">2013</p>
 
                 <h3 class="section-title">experience</h3>
+                <p class="entry">Engineer
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.medium.com">
+                        Medium
+                    </a>
+                </p>
+                <p class="meta-info">02.2014 - present</p>
+
                 <p class="entry">Lecturer
                     <a class="bit"
                         target="_blank"
