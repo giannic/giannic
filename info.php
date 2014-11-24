@@ -29,21 +29,37 @@
         <section class="content">
             <article>
                 <h3 class="section-title">education</h3>
-                <p class="entry">University of Pennsylvania</p>
+                <p class="entry">The University of Pennsylvania</p>
                 <p class="entry">M.S.E. Computer Graphics and Game Technology</p>
-                <p class="meta-info">2014</p>
+                <p class="meta-info">ON LEAVE</p>
                 <p class="entry">B.S.E. Digital Media Design</p>
                 <p class="meta-info">2013</p>
+                <p class="entry">The University of British Columbia, Vancouver
+                    <a class="bit"
+                        target="_blank"
+                        href="http://students.ubc.ca/enrolment/courses/non-degree/access">
+                        Concurrent Studies
+                    </a>
+                </p>
+                <p class="meta-info">2009</p>
+                <p class="entry">Stanford University
+                    <a class="bit"
+                        target="_blank"
+                        href="https://summercollege.stanford.edu/">
+                        Summer College
+                    </a>
+                </p>
+                <p class="meta-info">2009</p>
 
                 <h3 class="section-title">experience</h3>
-                <p class="entry">Engineer
+                <p class="entry">Software Engineer
                     <a class="bit"
                         target="_blank"
                         href="http://www.medium.com">
                         Medium
                     </a>
                 </p>
-                <p class="meta-info">02.2014 - present</p>
+                <p class="meta-info">02.2014 - PRESENT</p>
 
                 <p class="entry">Lecturer
                     <a class="bit"
@@ -141,6 +157,14 @@
                 <p class="entry">Maya, 3ds Max</p>
 
                 <h3 class="section-title">activities</h3>
+                <p class="entry">Alumni Interviewer
+                    <a class="bit"
+                        target="_blank"
+                        href="http://www.upenn.edu">
+                        UPenn
+                    </a>
+                </p>
+                <p class="meta-info">2014 - PRESENT</p>
                 <p class="entry">Communications Chair, Member
                     <a class="bit"
                         target="_blank"
@@ -148,7 +172,7 @@
                         UPenn Science and Technology Wing
                     </a>
                 </p>
-                <p class="meta-info">01.2010 - Present</p>
+                <p class="meta-info">01.2010 - 12.2013</p>
 
                 <p class="entry">Orientation Peer Advisor
                     <a class="bit"
