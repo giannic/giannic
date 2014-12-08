@@ -48,7 +48,7 @@
                         Summer College
                     </a>
                 </p>
-                <p class="meta-info">2009</p>
+                <p class="meta-info">2008</p>
 
                 <h3 class="section-title">experience</h3>
                 <p class="entry">Software Engineer
