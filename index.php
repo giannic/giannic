@@ -40,11 +40,7 @@
                     <br>
                     I am a software engineer
                     <br>
-                    at <a href="http://medium.com">Medium</a>. I studied
-                    <br>
-                    <a href="http://dmd.upenn.edu">Digital Media Design</a> at
-                    <br>
-                    The University of Pennsylvania.
+                    at <a href="http://google.com">Google</a>.
                 </p>
             </article>
         </section>

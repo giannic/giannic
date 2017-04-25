@@ -54,11 +54,20 @@
                 <p class="entry">Software Engineer
                     <a class="bit"
                         target="_blank"
+                        href="http://www.google.com">
+                        Google
+                    </a>
+                </p>
+                <p class="meta-info">04.2017 - PRESENT</p>
+
+                <p class="entry">Software Engineer
+                    <a class="bit"
+                        target="_blank"
                         href="http://www.medium.com">
                         Medium
                     </a>
                 </p>
-                <p class="meta-info">02.2014 - PRESENT</p>
+                <p class="meta-info">02.2014 - 03.2017</p>
 
                 <p class="entry">Lecturer
                     <a class="bit"
