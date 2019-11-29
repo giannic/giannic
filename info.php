@@ -51,7 +51,7 @@
                 <p class="meta-info">2008</p>
 
                 <h3 class="section-title">experience</h3>
-                <p class="entry">Software Engineer
+                <p class="entry">Senior Software Engineer
                     <a class="bit"
                         target="_blank"
                         href="http://www.google.com">
