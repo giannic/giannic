@@ -67,13 +67,6 @@
 
                 <p class="entry">
                     <a target="_blank"
-                        href="http://plus.google.com/+GianniChen/">
-                        Google+
-                    </a>
-                </p>
-
-                <p class="entry">
-                    <a target="_blank"
                         href="http://gkc.vsco.co">
                         VSCO
                     </a>
