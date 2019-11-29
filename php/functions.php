@@ -56,12 +56,6 @@ function nav() {
     } else {
         echo "<a href=\"profiles.php\">profiles</a>";
     }
-
-    if ($page == "/contact.php") {
-        echo "<a href=\"contact.php\" class=\"active\">contact</a>";
-    } else {
-        echo "<a href=\"contact.php\">contact</a>";
-    }
     echo "</nav>";
 }
 
